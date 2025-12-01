@@ -1,5 +1,25 @@
 ## Hi there 👋
 
+I'm Vusumuzi Lindelwe and i'm currently learning Software Engineering at Telone Centre for Learning.
+
+Currently learning c language.
+
+I will be uploading some smaller projects, experiments and everthing i am currenly working on. Everthing i will upload here is build from scratch.
+
+---
+
+## Tools
+
+- Ubuntu OS
+- Lazyvim, Obsidian
+
+---
+
+## A Bit About Me
+
+- I love solving problems
+- I love Computers
+
 <!--
 **myjourneyspeaks/myjourneyspeaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
