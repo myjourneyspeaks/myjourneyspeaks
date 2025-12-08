@@ -11,14 +11,14 @@ I will be uploading some smaller projects, experiments and everthing i am curren
 ## Tools
 
 - Ubuntu OS
-- Lazyvim, Obsidian
+- Lazyvim IDE
 
 ---
 
 ## A Bit About Me
 
-- I love solving problems
-- I love Computers
+- Solving Problems
+- Not a nerd btw
 
 <!--
 **myjourneyspeaks/myjourneyspeaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
