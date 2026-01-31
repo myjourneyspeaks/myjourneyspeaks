@@ -19,6 +19,7 @@ I will be uploading some smaller projects, experiments and everthing i am curren
 
 - Solving Problems
 - Not a nerd btw
+- I dont have a gf btw
 
 <!--
 **myjourneyspeaks/myjourneyspeaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
