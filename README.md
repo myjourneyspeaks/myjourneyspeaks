@@ -11,8 +11,10 @@ I will be uploading some smaller projects, experiments and everthing i am curren
 ## Tools
 
 - Ubuntu OS
-- Lazyvim IDE
 - Windows 10
+- Visual Studio Code
+- NeoVim (Lazy Vim)
+- Poweshell (for automations)
 
 ---
 
