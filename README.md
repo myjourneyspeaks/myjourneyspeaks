@@ -12,6 +12,7 @@ I will be uploading some smaller projects, experiments and everthing i am curren
 
 - Ubuntu OS
 - Lazyvim IDE
+- Windows 10
 
 ---
 
